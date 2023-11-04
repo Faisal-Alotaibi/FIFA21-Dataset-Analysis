@@ -38,8 +38,8 @@ We compiled a list of the top ten players with the longest contracts in FIFA 21.
 ### 8. Scatter Correlation between Height and Balance
 We examined the relationship between a player's height and their balance attributes using a scatter plot. This analysis helps determine if there's a correlation between these factors, which could be relevant for player performance.
 
-### 9. (To be filled with a new insight)
-We have one slot available for an additional insight. Feel free to suggest a specific analysis or question you'd like to explore further.
+### 9. Pie Chart of the nationalities distrubtuion of the top 10 nationalities
+We plotted the distrubution of the top 10 nationalities in a pie chart.
 
 ### 10. (To be filled with a new insight)
 You also have one more slot available for another insight. Please let us know what aspect of the dataset you'd like to investigate for the 10th insight.
