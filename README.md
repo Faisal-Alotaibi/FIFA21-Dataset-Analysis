@@ -41,7 +41,7 @@ We examined the relationship between a player's height and their balance attribu
 ### 9. Pie Chart of the nationalities distrubtuion of the top 10 nationalities
 We plotted the distrubution of the top 10 nationalities in a pie chart.
 
-### 10. (To be filled with a new insight)
+### 10. Box plot
 You also have one more slot available for another insight. Please let us know what aspect of the dataset you'd like to investigate for the 10th insight.
 
 Please refer to our Jupyter Notebook for detailed code, visualizations, and statistical analysis related to these insights. We hope this analysis provides valuable information for football enthusiasts and professionals.
