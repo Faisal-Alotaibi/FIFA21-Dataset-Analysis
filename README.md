@@ -42,7 +42,7 @@ We examined the relationship between a player's height and their balance attribu
 We plotted the distrubution of the top 10 nationalities in a pie chart.
 
 ### 10. Box plot
-You also have one more slot available for another insight. Please let us know what aspect of the dataset you'd like to investigate for the 10th insight.
+Using Seaborn, we created a square depicting a "Age" distribution box with "SM" (skill movement). The SM feature contains a set of data (1 to 5) that evaluates players' skills according to their ages.
 
 Please refer to our Jupyter Notebook for detailed code, visualizations, and statistical analysis related to these insights. We hope this analysis provides valuable information for football enthusiasts and professionals.
 
